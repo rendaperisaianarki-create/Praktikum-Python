@@ -6,3 +6,5 @@ Proyek ini dibuat untuk memenuhi tugas praktikum pengenalan IDE VS Code, Virtual
 1. Aktifkan Virtual Environment:
    ```powershell
    .venv\Scripts\Activate.ps1
+   
+   Catatan: Selesai
