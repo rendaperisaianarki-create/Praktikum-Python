@@ -17,3 +17,5 @@ try:
         print(f"Perkiraan usia Anda adalah {usia} tahun.")
 except ValueError:
     print("Error: Harap masukkan angka yang valid untuk tahun lahir!")
+
+    # Program selesai
