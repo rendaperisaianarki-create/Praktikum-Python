@@ -10,3 +10,4 @@ tabel.add_row("1", "VS Code", "Menulis dan menjalankan kode")
 tabel.add_row("2", "venv", "Mengisolasi paket proyek")
 tabel.add_row("3", "Git", "Mencatat riwayat perubahan")
 console.print(tabel)
+# Tabel data praktikum
